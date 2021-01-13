@@ -17,6 +17,8 @@ Things you may want to cover:
 
 * How to run the test suite 
     - rspec spec/hello_world_spec.rb   "you will find a popup chrome window as a system test window "
+    - run 'open coverage/index.html' if you mac user to show the test coverage percentage  or 'xdg-open coverage/index.html'
+    if you a linux user 
 
 * Services (job queues, cache servers, search engines, etc.)
 
