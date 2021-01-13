@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app applying the unit testing using rspec in a ruby on rails project 
+  - system test (selenium test)
 
 Things you may want to cover:
 
