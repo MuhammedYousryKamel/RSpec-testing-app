@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * Ruby version = 2.5.5
 
-* System dependencies = rails 5.0.7
+* System dependencies = rails 5.2.3
 
 * Configuration 
 
